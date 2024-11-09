@@ -1,0 +1,37 @@
+.D {
+  border: 2px solid red;
+}
+
+* {
+  background-color: lightgray;
+}
+
+#pinto-lake-text {
+  display: flex;
+  justify-content: center;
+  margin: 1.7rem;
+}
+
+#pinto-lake-text img,
+#pinto-lake-text p {
+  margin: 1rem;
+}
+
+#pinto-lake-button {
+  display: flex;
+  justify-content: center;
+}
+
+#head {
+  display: flex;
+  justify-content: center;
+}
+
+#Forest-text {
+  display: flex;
+  justify-content: center;
+}
+#headerOne {
+  display: flex;
+  justify-content: center;
+}
